@@ -1,6 +1,9 @@
 # Klee project
 
 This is a chatbot modeled after a character Klee from a game Genshin Impact.
+This was a school project for a software engineering module. The project has concluded.
+This was an individual project and the template was provided here, https://github.com/nus-cs2103-AY2324S2/ip.
+Through this project I have learnt the iterative workflow for software development.
 
 ## Setting up in Intellij
 
